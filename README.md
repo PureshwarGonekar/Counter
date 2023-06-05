@@ -1,6 +1,6 @@
 ## Welcome to My Simple Counter!
 
-[Live]()
+[Live]( https://pureshwargonekar.github.io/Counter/)
 
 In this mini project, I have utilized HTML, CSS, and JavaScript to create a user-friendly counter that counts from a starting point to a specified input value within a given range. This simple yet effective tool allows you to track and visualize counting progress effortlessly.
 
